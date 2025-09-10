@@ -2,90 +2,98 @@
 #include <stdint.h>
 #include <string.h>
 
-// Function to count number of set bits
-int countBits(int32_t a) {
-    int count = 0;
+// this function can count the number of countbits 
+int countbits(int a){
+    int count = 0 ;
     while (a) {
-        count += (a & 1);
-        a >>= 1;
-    }
+        count = count + (a & 1);
+        a = a >> 1; 
+}
     return count;
 }
 
-// Function to reverse bits
-uint32_t reverseBits(uint32_t a) {
-    uint32_t result = 0;
-    for (int i = 0; i < 32; i++) {
-        result <<= 1;
-        result |= (a & 1);
-        a >>= 1;
+// this function can count number of revrese bits
+unsigned int reversebits(unsigned int a) {
+    unsigned int reverse = 0;
+    for (int i = 0; i < 32; i++){
+        reverse = reverse << 1;
+        reverse = reverse | (a & 1);
+        a = a >> 1;
+    } 
+    return reverse;
+}
+
+// this function can check is the number is pow of 2 or not
+int power2(int a) {
+    int result;
+    result = (a > 0) && (a & (a - 1));
+    if (result == 0){
+        return 1;
+    }else {
+        return 0;
     }
+}
+
+// this function can set any bit between 0-31
+unsigned int setbit(unsigned int a, int pos) {
+    unsigned int result = 0;
+    result = (a | (1U << pos));
     return result;
 }
 
-// Function to check if power of 2
-int isPowerOf2(int32_t a) {
-    return (a > 0) && ((a & (a - 1)) == 0);
+// this function can clear bits between 0-31 
+unsigned int clearbit(unsigned int a, int pos) {
+    unsigned int result = 0;
+    result = (a & ~(1U << pos));
+    return result;
 }
 
-// Function to set a bit
-uint32_t setBit(uint32_t a, int pos) {
-    return (a | (1U << pos));
+// this function can toggle bit between 0-31
+unsigned int togglebit(unsigned int a, int pos) {
+    unsigned int result = 0;
+    result = (a ^ (1U << pos));
+    return result;
 }
 
-// Function to clear a bit
-uint32_t clearBit(uint32_t a, int pos) {
-    return (a & ~(1U << pos));
-}
-
-// Function to toggle a bit
-uint32_t toggleBit(uint32_t a, int pos) {
-    return (a ^ (1U << pos));
-}
-
-void bitops() {
-    int32_t a;
+int main() {
+    int a;
     char op[20];
     int pos;
 
-    printf("Enter an integer:\n ");
     scanf("%d", &a);
-
-    printf("Enter the operation:\n ");
     scanf("%19s", op);
 
    if (strcmp(op, "countbit") == 0) {
-        printf("Number of set bits: %d\n", countBits(a));
+        printf("number of set bits %d\n", countbits(a));
     }
     else if (strcmp(op, "reverse") == 0) {
-        printf("Reversed bits: %u\n", reverseBits(a));
+        printf("reversed bits %u\n", reversebits(a));
     }
     else if (strcmp(op, "pow_2") == 0) {
-        if (isPowerOf2(a)) 
-            printf("%d is a power of 2.\n", a);
+        if (power2(a)) 
+            printf("%d is power of 2\n", a);
         else 
-            printf("%d is not a power of 2.\n", a);
+            printf("%d is not power of 2\n", a);
     }
     else if (strcmp(op, "set") == 0) {
-        printf("Enter bit position (0-31): \n");
+        printf("enter bit position (0-31) \n");
         scanf("%d", &pos);
-        printf("After setting bit %d: %u\n", pos, setBit(a, pos));
+        printf("the number after set is %u\n",setbit(a, pos));
     }
     else if (strcmp(op, "clear") == 0) {
-        printf("Enter bit position (0-31): \n");
+        printf("enter bit position (0-31) \n");
         scanf("%d", &pos);
-        printf("After clearing bit %d: %u\n", pos, clearBit(a, pos));
+        printf("the number after clear is %u\n",clearbit(a, pos));
     }
     else if (strcmp(op, "toggle") == 0) {
-        printf("Enter bit position (0-31): \n");
+        printf("enter bit position (0-31) \n");
         scanf("%d", &pos);
-        printf("After toggling bit %d: %u\n", pos, toggleBit(a, pos));
+        printf("the number after toggle is %u\n",togglebit(a, pos));
     }
     else {
-        printf("Invalid operator!\n");
+        printf("invalid operator\n");
     }
+
+    printf("\n");
 }
-int main() {
-    bitops();
-    return 0;
-}
+
