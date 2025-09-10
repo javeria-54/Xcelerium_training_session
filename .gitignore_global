@@ -1,13 +1,3 @@
-# macOS
-.DS_Store
-
-# Windows
-Thumbs.db
-desktop.ini
-
-# Linux temporary files
-*~
-
 # Vim
 *.swp
 
