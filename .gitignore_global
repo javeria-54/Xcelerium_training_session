@@ -1,0 +1,29 @@
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Linux temporary files
+*~
+
+# Vim
+*.swp
+
+# Backup files
+*.bak
+
+# Temporary files
+*.tmp
+
+# VS Code
+.vscode/
+
+# Build / Object / Executables
+*.i
+*.o
+*.d
+*.elf
+*.exe
+*.io
