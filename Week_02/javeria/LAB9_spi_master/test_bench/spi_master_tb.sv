@@ -71,7 +71,7 @@ module spi_master_tb;
     @(posedge clk);
 
     // Test mode 0 (CPOL=0, CPHA=0)
-    cpol = 1; cpha = 0;
+    cpol = 0; cpha = 1;
     tx_data = 8'hA5;
     slave_sel = 2;
     $display("=== Starting transfer in MODE0 (CPOL=0,CPHA=0) ===");

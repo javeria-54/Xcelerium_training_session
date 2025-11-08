@@ -1,0 +1,282 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/27.0.9 Chrome/134.0.6998.205 Electron/35.4.0 Safari/537.36" version="27.0.9">
+  <diagram name="Page-1" id="5RIRogXMLmPjvl5qoKYH">
+    <mxGraphModel dx="1626" dy="1186" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="VTSKOvxBZb6AiJEuczOV-1" value="" style="ellipse;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" vertex="1">
+          <mxGeometry x="360" y="40" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VTSKOvxBZb6AiJEuczOV-2" value="" style="ellipse;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" vertex="1">
+          <mxGeometry x="640" y="160" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VTSKOvxBZb6AiJEuczOV-3" value="" style="ellipse;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" vertex="1">
+          <mxGeometry x="640" y="440" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VTSKOvxBZb6AiJEuczOV-4" value="" style="ellipse;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" vertex="1">
+          <mxGeometry x="640" y="720" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VTSKOvxBZb6AiJEuczOV-5" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:Calibri;mso-fareast-font-family:等线;&lt;br/&gt;mso-bidi-font-family:&#39;Times New Roman&#39;;&quot;&gt;DCACHE_FLUSH_DONE&lt;/span&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" vertex="1">
+          <mxGeometry x="320" y="380" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VTSKOvxBZb6AiJEuczOV-6" value="" style="ellipse;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" vertex="1">
+          <mxGeometry x="-90" y="470" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VTSKOvxBZb6AiJEuczOV-7" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:Calibri;mso-fareast-font-family:等线;&lt;br/&gt;mso-bidi-font-family:&#39;Times New Roman&#39;;&quot;&gt;DCACHE_FLUSH&lt;/span&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" vertex="1">
+          <mxGeometry x="80" y="160" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VTSKOvxBZb6AiJEuczOV-10" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:Calibri;mso-fareast-font-family:等线;&#xa;mso-bidi-font-family:&#39;Times New Roman&#39;;&quot;&gt;DCACHE_IDLE&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=12;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="380" y="50" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VTSKOvxBZb6AiJEuczOV-11" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:Calibri;mso-fareast-font-family:等线;&lt;br/&gt;mso-bidi-font-family:&#39;Times New Roman&#39;;&quot;&gt;DCACHE_PROCESS&lt;/span&gt;&lt;span style=&quot;font-family: Calibri; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;_REQ&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=12;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="640" y="170" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VTSKOvxBZb6AiJEuczOV-12" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:Calibri;mso-fareast-font-family:等线;&#xa;mso-bidi-font-family:&#39;Times New Roman&#39;;&quot;&gt;DCACHE_ALLOCATE&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=12;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="645" y="450" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VTSKOvxBZb6AiJEuczOV-14" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:Calibri;mso-fareast-font-family:等线;&#xa;mso-bidi-font-family:&#39;Times New Roman&#39;;&quot;&gt;DCACHE_WRITE_BACK&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=12;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="645" y="730" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VTSKOvxBZb6AiJEuczOV-15" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:Calibri;mso-fareast-font-family:等线;&#xa;mso-bidi-font-family:&#39;Times New Roman&#39;;&quot;&gt;DCACHE_FLUSH_NEXT&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=12;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="-85" y="485" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VTSKOvxBZb6AiJEuczOV-17" value="" style="curved=1;endArrow=classic;html=1;rounded=0;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=12;fontColor=default;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.04;exitY=0.33;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="VTSKOvxBZb6AiJEuczOV-1" target="VTSKOvxBZb6AiJEuczOV-7" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="350" as="sourcePoint" />
+            <mxPoint x="390" y="400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VTSKOvxBZb6AiJEuczOV-18" value="" style="curved=1;endArrow=classic;html=1;rounded=0;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=12;fontColor=default;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="VTSKOvxBZb6AiJEuczOV-10" target="VTSKOvxBZb6AiJEuczOV-2" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="140" as="sourcePoint" />
+            <mxPoint x="550" y="90" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="570" y="40" />
+              <mxPoint x="660" y="80" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VTSKOvxBZb6AiJEuczOV-19" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:Calibri;mso-fareast-font-family:等线;&lt;br/&gt;mso-bidi-font-family:&#39;Times New Roman&#39;;&quot;&gt;dcache_flush_i/&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=12;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="160" y="10" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VTSKOvxBZb6AiJEuczOV-20" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:Calibri;mso-fareast-font-family:等线;&lt;br/&gt;mso-bidi-font-family:&#39;Times New Roman&#39;;&quot;&gt;lsummu2dcache_req_i&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=12;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="530" y="10" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VTSKOvxBZb6AiJEuczOV-21" value="" style="curved=1;endArrow=classic;html=1;rounded=0;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=12;fontColor=default;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="645" y="183.28" as="sourcePoint" />
+            <mxPoint x="475" y="90" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="577.12" y="173.28" />
+              <mxPoint x="497.12" y="123.28" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VTSKOvxBZb6AiJEuczOV-23" value="" style="curved=1;endArrow=classic;html=1;rounded=0;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=12;fontColor=default;entryX=1;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" parent="1" source="VTSKOvxBZb6AiJEuczOV-2" target="VTSKOvxBZb6AiJEuczOV-4" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="470" as="sourcePoint" />
+            <mxPoint x="440" y="430" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="910" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VTSKOvxBZb6AiJEuczOV-25" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:Calibri;mso-fareast-font-family:等线;&lt;br/&gt;mso-bidi-font-family:&#39;Times New Roman&#39;;&quot;&gt;dcache_hit &amp;amp;&amp;amp; lsummu2dcache_wr_ff/&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-family: Calibri; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;cache_wr = 1,&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-family: Calibri; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;dcache2lsummu_ack =1&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=12;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="450" y="200" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VTSKOvxBZb6AiJEuczOV-26" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:Calibri;mso-fareast-font-family:等线;&lt;br/&gt;mso-bidi-font-family:&#39;Times New Roman&#39;;&quot;&gt;dcache_hit &amp;amp;&amp;amp; !lsummu2dcache_wr_ff/&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-family: Calibri; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;dcache2lsummu_ack =1&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=12;fontColor=default;rotation=0;" parent="1" vertex="1">
+          <mxGeometry x="520" y="80" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VTSKOvxBZb6AiJEuczOV-27" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:Calibri;mso-fareast-font-family:等线;&lt;br/&gt;mso-bidi-font-family:&#39;Times New Roman&#39;;&quot;&gt;dcache_miss &amp;amp;&amp;amp; !dcache_evict/&lt;br&gt;dcache2mem_req=1&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=12;fontColor=default;rotation=0;" parent="1" vertex="1">
+          <mxGeometry x="500" y="300" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VTSKOvxBZb6AiJEuczOV-28" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: Calibri; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;dcache_miss &amp;amp;&amp;amp; dcache_evict/&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:Calibri;mso-fareast-font-family:等线;&lt;br/&gt;mso-bidi-font-family:&#39;Times New Roman&#39;;&quot;&gt;dcache2mem_req=1,&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-family: Calibri;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-family: Calibri;&quot;&gt;dcache2mem_req=1,&lt;br&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-family: Calibri;&quot;&gt;cache_wrb_req = 1&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=12;fontColor=default;rotation=0;" parent="1" vertex="1">
+          <mxGeometry x="830" y="370" width="270" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="VTSKOvxBZb6AiJEuczOV-29" value="" style="curved=1;endArrow=classic;html=1;rounded=0;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=12;fontColor=default;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.705;exitY=0.021;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="VTSKOvxBZb6AiJEuczOV-12" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="736" y="443" as="sourcePoint" />
+            <mxPoint x="710" y="240" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="756" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VTSKOvxBZb6AiJEuczOV-32" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:Calibri;mso-fareast-font-family:等线;&lt;br/&gt;mso-bidi-font-family:&#39;Times New Roman&#39;;&quot;&gt;mem2dcache_ack_i /&lt;/span&gt;&lt;span style=&quot;font-family: Calibri; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;cache_line_wr = 1&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=12;fontColor=default;rotation=90;" parent="1" vertex="1">
+          <mxGeometry x="660" y="330" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VTSKOvxBZb6AiJEuczOV-33" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:Calibri;mso-fareast-font-family:等线;&lt;br/&gt;mso-bidi-font-family:&#39;Times New Roman&#39;;&quot;&gt;!mem2dcache_ack_i /&lt;/span&gt;&lt;span style=&quot;font-family: Calibri; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;dcache2mem_req = 1&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=12;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="630" y="540" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VTSKOvxBZb6AiJEuczOV-37" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:Calibri;mso-fareast-font-family:等线;&lt;br/&gt;mso-bidi-font-family:&#39;Times New Roman&#39;;&quot;&gt;mem2dcache_ack_i &amp;amp;&amp;amp; dcache_flush_i/&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-family: Calibri; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;cache_clean_line = 1&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:Calibri;mso-fareast-font-family:等线;&lt;br/&gt;mso-bidi-font-family:&#39;Times New Roman&#39;;&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=12;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="150" y="770" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VTSKOvxBZb6AiJEuczOV-38" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:Calibri;mso-fareast-font-family:等线;&lt;br/&gt;mso-bidi-font-family:&#39;Times New Roman&#39;;&quot;&gt;!mem2dcache_ack_i/&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-family: Calibri;&quot;&gt;dcache2mem_req = 1&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-family: Calibri; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;dcache2mem_wr = 1&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-family: Calibri; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;cache_wrb_req = 1&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=12;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="760" y="820" width="120" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="VTSKOvxBZb6AiJEuczOV-39" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:Calibri;mso-fareast-font-family:等线;&lt;br/&gt;mso-bidi-font-family:&#39;Times New Roman&#39;;&quot;&gt;mem2dcache_ack_i &amp;amp;&amp;amp;&lt;br&gt;&amp;nbsp;!dcache_flush_i/&lt;br&gt;d&lt;/span&gt;&lt;span style=&quot;font-family: Calibri; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;cache2mem_req = 1&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=12;fontColor=default;rotation=0;" parent="1" vertex="1">
+          <mxGeometry x="485" y="600" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VTSKOvxBZb6AiJEuczOV-41" value="" style="curved=1;endArrow=classic;html=1;rounded=0;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=12;fontColor=default;entryX=0.299;entryY=0.934;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="VTSKOvxBZb6AiJEuczOV-5" target="VTSKOvxBZb6AiJEuczOV-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="310" as="sourcePoint" />
+            <mxPoint x="370" y="100" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="420" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VTSKOvxBZb6AiJEuczOV-45" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:Calibri;mso-fareast-font-family:等线;&lt;br/&gt;mso-bidi-font-family:&#39;Times New Roman&#39;;&quot;&gt;dcache_evict/&lt;br&gt;d&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-family: Calibri;&quot;&gt;cache2mem_req = 1&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-family: Calibri; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;dcache2mem_wr = 1&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-family: Calibri; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;cache_wrb_req = 1&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=12;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="310" y="590" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="VTSKOvxBZb6AiJEuczOV-47" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:Calibri;mso-fareast-font-family:等线;&lt;br/&gt;mso-bidi-font-family:&#39;Times New Roman&#39;;&quot;&gt;!dcache_evict &amp;amp;&amp;amp;&lt;/span&gt;&lt;span style=&quot;font-family: Calibri; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(&amp;amp;evict_index_ff) /&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-family: Calibri;&quot;&gt;evict_index_next = 0&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=12;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="190" y="270" width="110" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="VTSKOvxBZb6AiJEuczOV-49" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:Calibri;mso-fareast-font-family:等线;&lt;br/&gt;mso-bidi-font-family:&#39;Times New Roman&#39;;&quot;&gt;!dcache_evict &amp;amp;&amp;amp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-family: Calibri;&quot;&gt;!(&amp;amp;evict_index_ff) /&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-family: Calibri;&quot;&gt;evict_index_next=&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-family: Calibri;&quot;&gt;evict_index_ff+1&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=12;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="-20" y="310" width="110" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="VTSKOvxBZb6AiJEuczOV-51" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:Calibri;mso-fareast-font-family:等线;&lt;br/&gt;mso-bidi-font-family:&#39;Times New Roman&#39;;&quot;&gt;/dcache2lsummu_ack =1&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=12;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="280" y="200" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VTSKOvxBZb6AiJEuczOV-53" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: Calibri; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;mem2dcache_ack_i &amp;amp;&amp;amp; dcache_flush_I &amp;amp;&amp;amp; (~(&amp;amp;evict_index_ff))&lt;/span&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:Calibri;mso-fareast-font-family:等线;&lt;br/&gt;mso-bidi-font-family:&#39;Times New Roman&#39;;&quot;&gt;/&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-family: Calibri;&quot;&gt;cache_clean_line = 1,&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:Calibri;mso-fareast-font-family:等线;&lt;br/&gt;mso-bidi-font-family:&#39;Times New Roman&#39;;&quot;&gt;&amp;nbsp;evict_index_next = evict_index_ff+1&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=12;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="-70" y="850" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VTSKOvxBZb6AiJEuczOV-54" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Calibri; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;!dcache_flush_i &amp;amp;&amp;amp; !lsummu2dcache_req_i/&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=12;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="360" y="-50" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VTSKOvxBZb6AiJEuczOV-55" value="&lt;font face=&quot;Calibri&quot;&gt;DCACHE_WRITE&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" vertex="1">
+          <mxGeometry x="120" y="-130" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VTSKOvxBZb6AiJEuczOV-57" value="" style="endArrow=classic;html=1;rounded=0;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=12;fontColor=default;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="VTSKOvxBZb6AiJEuczOV-55" target="VTSKOvxBZb6AiJEuczOV-10" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="-40" as="sourcePoint" />
+            <mxPoint x="300" y="-90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VTSKOvxBZb6AiJEuczOV-58" value="&lt;font face=&quot;calibri&quot;&gt;/dcache2lsummu_ack=1&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=12;fontColor=default;rotation=45;" parent="1" vertex="1">
+          <mxGeometry x="220" y="-40" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VTSKOvxBZb6AiJEuczOV-61" value="" style="endArrow=classic;html=1;rounded=0;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=12;fontColor=default;curved=1;entryX=0.721;entryY=0.944;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.214;exitY=0.904;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="VTSKOvxBZb6AiJEuczOV-3" target="VTSKOvxBZb6AiJEuczOV-3" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="670" y="530" as="sourcePoint" />
+            <mxPoint x="720" y="480" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="690" y="600" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VTSKOvxBZb6AiJEuczOV-62" value="" style="endArrow=classic;html=1;rounded=0;hachureGap=4;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=12;fontColor=default;labelBackgroundColor=default;curved=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="710" y="800" as="sourcePoint" />
+            <mxPoint x="760" y="750" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="810" y="880" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VTSKOvxBZb6AiJEuczOV-63" value="" style="endArrow=classic;html=1;rounded=0;hachureGap=4;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=12;fontColor=default;labelBackgroundColor=default;curved=1;entryX=0.342;entryY=1.037;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="VTSKOvxBZb6AiJEuczOV-15" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="700" y="800" as="sourcePoint" />
+            <mxPoint x="750" y="750" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="110" y="1180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VTSKOvxBZb6AiJEuczOV-64" value="" style="endArrow=classic;html=1;rounded=0;hachureGap=4;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=12;fontColor=default;labelBackgroundColor=default;curved=1;entryX=0.643;entryY=0.833;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="VTSKOvxBZb6AiJEuczOV-15" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="660" y="790" as="sourcePoint" />
+            <mxPoint x="710" y="740" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="190" y="870" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VTSKOvxBZb6AiJEuczOV-65" value="" style="endArrow=classic;html=1;rounded=0;hachureGap=4;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=12;fontColor=default;labelBackgroundColor=default;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="VTSKOvxBZb6AiJEuczOV-7" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-30" y="470" as="sourcePoint" />
+            <mxPoint x="20" y="420" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-140" y="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VTSKOvxBZb6AiJEuczOV-66" value="" style="endArrow=classic;html=1;rounded=0;hachureGap=4;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=12;fontColor=default;labelBackgroundColor=default;curved=1;entryX=0.038;entryY=0.66;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="VTSKOvxBZb6AiJEuczOV-4" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="240" as="sourcePoint" />
+            <mxPoint x="180" y="190" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="160" y="760" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VTSKOvxBZb6AiJEuczOV-67" value="" style="endArrow=classic;html=1;rounded=0;hachureGap=4;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=12;fontColor=default;labelBackgroundColor=default;curved=1;entryX=0.76;entryY=0.033;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="VTSKOvxBZb6AiJEuczOV-6" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="230" as="sourcePoint" />
+            <mxPoint x="150" y="180" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="120" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VTSKOvxBZb6AiJEuczOV-69" value="" style="endArrow=classic;html=1;rounded=0;hachureGap=4;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=12;fontColor=default;labelBackgroundColor=default;curved=1;entryX=0.21;entryY=-0.026;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.334;exitY=0.945;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="VTSKOvxBZb6AiJEuczOV-2" target="VTSKOvxBZb6AiJEuczOV-12" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="680" y="240" as="sourcePoint" />
+            <mxPoint x="730" y="190" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="650" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VTSKOvxBZb6AiJEuczOV-70" value="" style="endArrow=classic;html=1;rounded=0;hachureGap=4;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=12;fontColor=default;labelBackgroundColor=default;curved=1;entryX=0.722;entryY=0.067;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.267;exitY=0.075;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="VTSKOvxBZb6AiJEuczOV-1" target="VTSKOvxBZb6AiJEuczOV-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="40" as="sourcePoint" />
+            <mxPoint x="450" y="-10" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="430" y="-60" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VTSKOvxBZb6AiJEuczOV-71" value="" style="endArrow=classic;html=1;rounded=0;hachureGap=4;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=12;fontColor=default;labelBackgroundColor=default;curved=1;" parent="1" target="VTSKOvxBZb6AiJEuczOV-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="210" as="sourcePoint" />
+            <mxPoint x="690" y="160" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="480" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VTSKOvxBZb6AiJEuczOV-73" value="" style="endArrow=classic;html=1;rounded=0;hachureGap=4;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=12;fontColor=default;labelBackgroundColor=default;curved=1;entryX=-0.007;entryY=0.358;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="VTSKOvxBZb6AiJEuczOV-5" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="230" as="sourcePoint" />
+            <mxPoint x="230" y="180" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="340" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VTSKOvxBZb6AiJEuczOV-74" value="" style="endArrow=classic;html=1;rounded=0;hachureGap=4;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=12;fontColor=default;labelBackgroundColor=default;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="VTSKOvxBZb6AiJEuczOV-3" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="660" y="730" as="sourcePoint" />
+            <mxPoint x="710" y="680" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="570" y="640" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M5po5NnBYEskvbOOqMZu-1" value="" style="endArrow=classic;html=1;rounded=0;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-10" y="-10" as="sourcePoint" />
+            <mxPoint x="40" y="-60" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-120" y="-100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

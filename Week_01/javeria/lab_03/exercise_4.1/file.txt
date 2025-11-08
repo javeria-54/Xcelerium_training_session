@@ -1,5 +1,0 @@
-Hello its me javeria. 
-Basically we are learning shell scripting in this lab.
-I am making a text file today for which i am writting this script.
-Today is wednesday 20 aug 2025.
-I am in happy today.  

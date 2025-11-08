@@ -26,7 +26,7 @@ module tb_axi4_lite;
         .write_data    (write_data),
         .read_address  (read_address),
         .read_data     (read_data),
-        .start_read(start_read),
+        .start_read    (start_read),
         .start_write   (start_write),
         .write_done    (write_done),
         .read_done     (read_done),

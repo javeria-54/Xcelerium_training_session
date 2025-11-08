@@ -20,6 +20,8 @@ module uart_tx_controller # (
     logic [11:0]    baud_counter;
     logic           baud_tick;
 
+    localparam int BAUD_DIVISOR = CLK_FREQ / BAUD_RATE;
+    assign  baud_divisor = BAUD_DIVISOR[11:0];  
 
     typedef enum logic [2:0] {
         IDLE,
@@ -98,7 +100,7 @@ module uart_tx_controller # (
                     tx_ready <= 0;
                     if (baud_tick) begin
                          tx_serial <= shift_reg[0];  // Transmit data bit
-                         shift_reg <= {1'b1, shift_reg[11:1]}; // Shift right, fill with 0
+                         shift_reg <= {1'b1, shift_reg[11:1]}; // Shift right, fill with 1
                         if (bit_counter == 7) begin
                             bit_counter <= 0;
                         end else begin
